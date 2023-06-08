@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **NandanNayak/NandanNayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Projects
+
+- [HelloWorld](https://github.com/NandanNayak/HelloWorld) - This project demonstrates the use of Java, JUnit4, Maven, Docker and Jenkins pipeline in a simple HelloWorld app. The project also makes use of github workflows to automate testing on the Pull requests.
+
+- [ReqRes-Jmeter-Project](https://github.com/NandanNayak/ReqRes-Jmeter-Project) - This project makes use of `Jmeter` to automate API testing on a website called `reqres.in`. 
