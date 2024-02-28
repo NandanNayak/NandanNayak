@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 ## Guided Projects
 
-- [Getting Started with Jira](https://www.coursera.org/account/accomplishments/records/C9JYAEWJ6BFX) - In this project, I was able to understand how to use the Jira board settings effectively to visualize the progress of the Issuess
+- [Getting Started with Jira](https://www.coursera.org/account/accomplishments/records/C9JYAEWJ6BFX) - In this project, I was able to understand how to use the Jira board settings effectively to visualize the progress of the Issues
 
-- [Automate tasks and processes with Jira](https://www.coursera.org/account/accomplishments/records/PPHHYF6BBAE5) - In this project, I was able to use Automation in Jira to create subtasks, send emails etc when certain criteria were met
+- [Automate tasks and processes with Jira](https://www.coursera.org/account/accomplishments/records/PPHHYF6BBAE5) - In this project, I was able to use **Automation** in Jira to create subtasks, send emails etc when certain criteria was met
