@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 - [HelloWorld](https://github.com/NandanNayak/HelloWorld) - This project demonstrates the use of **Java**, **JUnit4**, **Maven**, **Docker** and **Jenkins pipeline** in a simple HelloWorld app. The project also makes use of github workflows to automate testing on the Pull requests.
 
-- [ReqRes-Jmeter-Project](https://github.com/NandanNayak/ReqRes-Jmeter-Project) - This project makes use of **Jmeter** to automate API testing on a website called `reqres.in`. 
+- [ReqRes-Jmeter-Project](https://github.com/NandanNayak/ReqRes-Jmeter-Project) - This project makes use of **Jmeter** to automate API testing on a website called `reqres.in`.
+
+- [MongoDB-with-MongoExpress using Kubernetes](https://github.com/NandanNayak/MongoDB-with-MongoExpress) - This project makes use of **Kubernetes** to create a database service using `mongo-express` and `mongodb`.
 
 ## Guided Projects
 
